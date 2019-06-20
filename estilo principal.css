@@ -1,0 +1,46 @@
+h1 {
+	color: pink;
+	background-color: Gray;              
+	font-style: italic;
+	font-family: florence, cursive;
+	padding: 13px;
+	border: 5px solid Gray;
+	border-style:outset;
+
+align-items: center;}
+
+	p.intro{
+      font-family: florence, cursive;
+      font-size: 14px;
+
+	}
+ ul.principal { list-style-image: url("corazon lista 1.png")  ;
+     
+
+     list-style-position: inside; 
+     font-family: fantasy;
+     text-align: center;
+     font-size: 15px;
+     padding: 5em;
+     
+
+  }
+    footer{ background-color: black;
+    	color: white;
+    	font-size: 1em;
+    	vertical-align: middle;
+    	
+    	position: fixed;
+    	bottom: 2px;
+    	left: 1px;
+    	right: 1px;
+    	
+    	width: 100%;
+    	max-width: 1600px;
+    	justify-content: space-between;
+    }
+.primera{
+	color: white;
+	text-decoration: none;
+} 
+   
